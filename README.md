@@ -1,11 +1,16 @@
-# Job's Done for MATLAB
+# Utilities for MATLAB
 
-## What is this?
+## Job's done
 
-It notifies you that a job is done
-
-## Usage
-
-    % Put some MATLAB codes
     jobsdone
+
+Tells you that a job is done.
+
+Thanks to Warcraft 3 Peasant.
+
+## OS-aware home directory
+
+    hdir = homedir
+
+Returns you a path of `HOME` directory
 
